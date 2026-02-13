@@ -8,13 +8,13 @@ const CONFIG = {
     valentineName: "Bubba <3",
 
     // The title that appears in the browser tab
-    // You can use emojis! 💝 💖 💗 💓 💞 💕
-    pageTitle: "Will You Be My Valentine? 💝",
+    // You can use emojis! 💝 💖 💗 💓 💞 💕🌹
+    pageTitle: "Will You Be My Valentine? 💝🌹",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
-        hearts: ['❤️', '💖', '💝', '💗', '💓'],  // Heart emojis
+        hearts: ['❤️', '💖', '💝', '💗', '💓', '💌', '🌹'],  // Heart emojis
         bears: ['🧸', '🐻']                       // Cute bear emojis
     },
 
@@ -49,9 +49,9 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
-        message: "Happy Valentine's Day, Lovely! Get ready for some KDrama, Minecraft, and Fooooood <3",
-        emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
+        title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓🌹",
+        message: " 🌹Happy Valentine's Day, Lovely! Get ready for some KDrama, Minecraft, and Fooooood <3 🌹",
+        emojis: "🎁💖🤗💝💋❤️💕🌹"  // These will bounce around
     },
 
     // Color scheme for the website
@@ -78,7 +78,7 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://res.cloudinary.com/dncywqfpb/video/upload/v1738399057/music_qrhjvy.mp3", // Music streaming URL
+        musicUrl: "https://res.cloudinary.com/dlsbgiegq/video/upload/v1771025539/ytmp3free.cc_what-can-i-do-youtubemp3free.org_zt4x2y.mp3", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
